@@ -27,8 +27,3 @@ count = 10
  elsif count == 0
    puts "Happy New Year!"
  end
-
-
-
-
- end
