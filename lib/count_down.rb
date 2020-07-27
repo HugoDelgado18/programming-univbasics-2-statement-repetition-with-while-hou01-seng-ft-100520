@@ -27,8 +27,8 @@ countdown = 10
  elsif countdown == 0
    puts "Happy New Year!"
  end
-   
-   
-   
-   
+
+
+
+
  end
